@@ -58,3 +58,16 @@ int main(){
         status = "Tidak lulus";
     cout<<"Status kelulusan = "<<status<<endl;
 }
+#include <iostream>
+using namespace std;
+//program logika OR
+int main(){
+    float nilB,nilM, rerata;
+    string status;
+
+    cout<<"Masukkan nilai Matematika = ";
+    cin>>nilM;
+    cout<<"Masukkan nilai Bahasa Inggris = ";
+    cin>>nilB;
+
+}
